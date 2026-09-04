@@ -82,6 +82,7 @@
 
 | Project | Description | Tech Stack |
 |:---|:---|:---|
+| 📝 **[u1e2k blog](https://github.com/u1e2k/blog)** | Jekyll + GitHub Pages 製の技術ブログ（自作テーマ、ダークモード対応） | `Jekyll` `Ruby` `SCSS` |
 | 🎮 **[othellonly](https://github.com/u1e2k/othellonly)** | Godot 4 によるリバーシ（オセロ）ゲームプロジェクト | `Godot 4` `GDScript` |
 | 🎮 **[chalinchalin](https://github.com/u1e2k/chalinchalin)** | Godot Engine を活用したゲーム制作プロトタイプ | `Godot` `GDScript` |
 | 📝 **[markdown-editor](https://github.com/u1e2k/markdown-editor)** | Obsidianライクな操作感を意識したマークダウンオンラインエディタ | `TypeScript` `Web` |
