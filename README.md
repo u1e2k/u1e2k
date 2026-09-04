@@ -109,8 +109,8 @@ note では技術検証、サーバー構築、自作アプリ、ガジェット
 <div align="center">
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/SGDKQTX" target="_blank" rel="noopener noreferrer"><img alt="SGDKQTXのLAPRASでのスコアは次の通りです: エンジニアリング: 3.09 / 5.0, ビジネス: 3.57 / 5.0, インフルエンス: 2.77 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.09&b=3.57&i=2.77&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 9/3/2026, 2:43:18 AM</p>
+<p ><a href="https://lapras.com/public/SGDKQTX" target="_blank" rel="noopener noreferrer"><img alt="SGDKQTXのLAPRASでのスコアは次の通りです: エンジニアリング: 3.08 / 5.0, ビジネス: 3.57 / 5.0, インフルエンス: 2.77 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.08&b=3.57&i=2.77&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 9/4/2026, 2:40:15 AM</p>
 <!--END_SECTION:lapras-card-->
 
 </div>
