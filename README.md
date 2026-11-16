@@ -91,6 +91,18 @@
 | ❄️ **[my-nixos-config](https://github.com/u1e2k/my-nixos-config)** | 宣言的で再現性のある開発環境を構築する NixOS 構成設定 | `Nix` `NixOS` `Linux` |
 | 📁 **[dotfiles](https://github.com/u1e2k/dotfiles)** | Linux / デスクトップ環境の快適性を追求した dotfiles | `Shell` `Linux` |
 
+### 🆕 Recent Projects (2026-11)
+
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| 🤖 **[concbot](https://github.com/u1e2k/concbot)** | NFCタグをかざしてWi-Fiテザリングを切り替えるAndroid自動化アプリ（root / Shizuku不要） | `Kotlin` `Android` |
+| ⚔️ **[mhp2g-skillsim](https://github.com/u1e2k/mhp2g-skillsim)** | MHP2G専用の超高速スキルシミュレーター（GitHub Pages公開中） | `TypeScript` `React` |
+| 🌤️ **[myinitboard](https://github.com/u1e2k/myinitboard)** | iPad mini 6向けFlutter製パーソナルダッシュボード（天気表示） | `Dart` `Flutter` |
+| 🏝️ **[hakoniwa](https://github.com/u1e2k/hakoniwa)** | 「箱庭諸島」の派生要素を統合したModern版リメイク | `TypeScript` `React` |
+| 🎸 **[idchug](https://github.com/u1e2k/idchug)** | ブラウザ完結型のバンド特化DAW（鼻歌入力対応） | `TypeScript` `Web Audio` |
+
+📝 2026年11月の活動まとめ記事を公開しました: [最近のGitHub活動まとめ（2026年11月）](https://u1e2k.github.io/blog/recent-github-activities-2026-11/)
+
 ---
 
 ## 📝 Recent Topics & Articles ([note.com/u1e2k](https://note.com/u1e2k))
